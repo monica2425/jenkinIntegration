@@ -1,1 +1,1 @@
-echo "Welcome to automating test"
+echo "Welcome to devops test"
