@@ -1,1 +1,1 @@
-echo "Welcome and Thanks"
+echo "Welcome and Thanks for automating"
